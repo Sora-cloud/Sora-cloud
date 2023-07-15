@@ -5,5 +5,6 @@
   🛸 playing: valorant, genshin, dota2, league of legends  <br>
   🎧 discord:<br></samp>
 [![Discord Presence](https://lanyard.cnrad.dev/api/284010976313868288?&bg=0D1117)](https://discord.com/users/284010976313868288)<br>
+  🎲 leetcode:<br></samp>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/soraQ?theme=nord)](https://leetcode.com/soraQ)<br>
 <br><br><br><br><br>
