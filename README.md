@@ -4,6 +4,6 @@
   🚲 based in moscow <br>
   🛸 playing: valorant, genshin, dota2, league of legends  <br>
   🎧 discord:<br></samp>
-[![Discord Presence](https://lanyard.cnrad.dev/api/274874981169758209?&bg=0D1117)](https://discord.com/users/284010976313868288)<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/284010976313868288?&bg=0D1117)](https://discord.com/users/284010976313868288)<br>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/soraQ?theme=nord)](https://leetcode.com/soraQ) <br>
 <br><br><br><br><br>
