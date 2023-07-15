@@ -1,5 +1,5 @@
 
-<a href="https://tenor.com/ru/view/anime-girl-dance-cute-kawaii-gif-17165331"><img align="left" width="250" src="http://pa1.narvii.com/6184/7bb2f1a0a502c787559b3e0032205d1c21b570cd_00.gif"></a>  hi! <br><samp>
+<a href="https://tenor.com/ru/view/anime-girl-dance-cute-kawaii-gif-17165331"><img align="left" width="250" src="http://media.tenor.com/dvql5CVGXGwAAAAi/anime-girl.gif"></a>  hi! <br><samp>
   🚲 based in moscow <br>
   🛸 playing: valorant, genshin, dota2, league  <br>
   🎧 listening to: <br></samp>
