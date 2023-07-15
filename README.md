@@ -3,7 +3,7 @@
   💻 i work on [koete.ru](https://koete.ru)<br> 
   🚲 based in moscow <br>
   🛸 playing: valorant, genshin, dota2, league of legends  <br>
-  🎧 listening to: <br></samp>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fik7piiuzowjuzaqy76yhg626q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) <br>
+  🎧 discord:<br></samp>
+[![Discord Presence](https://lanyard.cnrad.dev/api/274874981169758209?&bg=0D1117)](https://discord.com/users/284010976313868288)<br>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/soraQ?theme=nord)](https://leetcode.com/soraQ) <br>
 <br><br><br><br><br>
